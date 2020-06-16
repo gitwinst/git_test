@@ -1,0 +1,1 @@
+This is my first git project! Actually, this is NOT my first git project. Who knows how many times I half-heartedly went about trying to learn git. But this time feels different than before. Better than before. So, a baptism, a rebirth - this is my first git project!
